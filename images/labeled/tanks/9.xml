@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tanks</folder>
+	<filename>9.jpg</filename>
+	<path>C:\Users\zhiti\Documents\GitHub\TransportSight\dataset\raw\tanks\9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>225</ymin>
+			<xmax>1169</xmax>
+			<ymax>827</ymax>
+		</bndbox>
+	</object>
+</annotation>

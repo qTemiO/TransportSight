@@ -1,0 +1,26 @@
+<annotation>
+	<folder>warauto</folder>
+	<filename>11.jpg</filename>
+	<path>C:\Users\zhiti\Documents\GitHub\TransportSight\dataset\raw\warauto\11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>784</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>btr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>198</ymin>
+			<xmax>1224</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+</annotation>
