@@ -1,0 +1,22 @@
+item {
+    id: 1
+    name: 'tank'
+}
+
+item {
+    id: 2
+    name: 'warauto'
+}
+item {
+    id: 3
+    name: 'human'
+}
+
+item {
+    id: 4
+    name: 'btr'
+}
+item {
+    id: 5
+    name: 'pilot'
+}
